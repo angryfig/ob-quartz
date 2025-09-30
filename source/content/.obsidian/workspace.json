@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Some note.md",
+                "file": "drafts/themes quartz notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some note"
+              "title": "themes quartz notes"
             }
           }
         ],
@@ -186,14 +186,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Some note.md",
+    "category-folder/Some note.md",
+    "tags/analog.md",
+    "drafts",
     "index.md",
     "tags/index.md",
-    "category-folder/Some note.md",
     "category-folder/index.md",
-    "Some note.md",
-    "themes.md",
+    "drafts/themes quartz notes.md",
     "category-folder"
   ]
 }
