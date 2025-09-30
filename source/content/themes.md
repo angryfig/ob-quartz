@@ -1,3 +1,5 @@
+[[category-folder/index|index]]
+
 https://quartz.jzhao.xyz/layout
 
 
