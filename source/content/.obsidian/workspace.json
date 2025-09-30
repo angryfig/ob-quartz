@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "themes quartz notes"
             }
+          },
+          {
+            "id": "b4838f8e89ce1c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,8 +200,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "b4838f8e89ce1c0f",
   "lastOpenFiles": [
+    "knit/starts pattern.md",
+    "knit/comparing schemas.md",
+    "knit/flatter incs.md",
+    "drafts/themes quartz notes.md",
+    "knit",
     "Some note.md",
     "category-folder/Some note.md",
     "tags/analog.md",
@@ -195,7 +214,6 @@
     "index.md",
     "tags/index.md",
     "category-folder/index.md",
-    "drafts/themes quartz notes.md",
     "category-folder"
   ]
 }
