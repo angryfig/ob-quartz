@@ -7,3 +7,12 @@ Hello world!
 Write some words here!
 
 test online
+
+
+latest posts
+
+
+--- 
+
+by tags
+
